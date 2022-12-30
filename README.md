@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammed Said aka musaid</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on [kfzteile24 GmbH](https://github.com/kfzteile24)
 
-- 🌱 I’m currently learning **Go, Unity, Flutter**
+- 🌱 I’m currently learning **Go, Unity, Kotlin, Flutter**
 
 - 📫 How to reach me **muhammedcamkerten@gmail.com**
 
 - 📄 Know about my experiences [muhammedcamkerten.com](muhammedcamkerten.com)
 
-- ⚡ Fun fact **I lost 20 kgs in 3 month, but I can get 5 kgs in one week!**
+- ⚡ Fun fact **I lost 20 kgs in 3 months, but I can get 5 kgs in one week!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
