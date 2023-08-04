@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **muhammedcamkerten@gmail.com**
 
-- 📄 Know about my experiences [muhammedcamkerten.com](muhammedcamkerten.com)
+- 📄 Know about my experiences [muhammedcamkerten.com](http://muhammedcamkerten.com)
 
 - ⚡ Fun fact **I lost 20 kgs in 3 months, but I can get 5 kgs in one week!**
 
